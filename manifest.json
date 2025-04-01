@@ -1,0 +1,21 @@
+{
+  "name": "YouTube Music",
+  "short_name": "YouTube Music",
+  "description": "Stream music from YouTube.",
+  "start_url": "https://music.youtube.com/",
+  "display": "standalone",
+  "background_color": "#FF0000",  // Bright Red background
+  "theme_color": "#FF0000",  // Bright Red theme
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/YouTube_Music_logo_2020.svg",  // YouTube Music logo
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/YouTube_Music_logo_2020.svg",  // YouTube Music logo
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
