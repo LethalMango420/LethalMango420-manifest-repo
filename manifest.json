@@ -1,6 +1,11 @@
 {
   "name": "YouTube Music",
   "short_name": "YT Music",
+  "description": "YouTube Music PWA for KaiOS",
+  "developer": {
+    "name": "LethalMango420",
+    "url": "https://github.com/LethalMango420"
+  },
   "start_url": "https://music.youtube.com/",
   "display": "standalone",
   "background_color": "#FF0000",
